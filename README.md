@@ -41,9 +41,12 @@ The dashboard focuses on streaming trends, audio features, and mood-based insigh
 - Excel / CSV
 - GitHub
 
-##Dashboard Preview
-![Dashboard](Screenshots/dashboard_overview.png)
+#####Dashboard Preview
+https://app.powerbi.com/groups/me/reports/e53e8412-5769-4b84-99e4-a7bdd4284ef7/710819d3c42e40506429?experience=power-bi
 
 ## 👤 Author
 **Prashant Yadav**  
 Computer Science Student | Data Analytics | Power BI
+
+
+
